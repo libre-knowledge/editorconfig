@@ -30,6 +30,8 @@
 
 * [EditorConfig](https://editorconfig.org/)  
   解決方案的官方網站
+* [Issues · editorconfig/editorconfig](https://github.com/editorconfig/editorconfig/issues)  
+  議題追蹤系統
 
 ---
 
