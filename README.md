@@ -12,17 +12,18 @@
 
 （待補）
 
-## 解決方案
-
-以下列舉本主題相關的解決方案：
-
-（待補）
-
 ## 子主題
 
 以下列舉本主題相關的主題：
 
 -->
+
+## 解決方案
+
+以下列舉本主題相關的解決方案：
+
+* [The common EditorConfig template](https://gitlab.com/the-common/editorconfig-template)  
+  A simple EditorConfig template to reuse.
 
 ## 參考資料
 
