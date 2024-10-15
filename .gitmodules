@@ -7,6 +7,12 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "EditorConfig C Core"]
+	path = EditorConfig C Core
+	url = https://github.com/editorconfig/editorconfig-core-c.git
+	ignore = dirty
+	shallow = true
+	fetchRecurseSubmodules = false
 [submodule "The common EditorConfig template"]
 	path = The common EditorConfig template
 	url = https://gitlab.com/the-common/editorconfig-template.git

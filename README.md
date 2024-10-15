@@ -9,6 +9,8 @@
 
 以下列舉本主題相關的解決方案：
 
+* [EditorConfig C Core](https://github.com/editorconfig/editorconfig-core-c)  
+  EditorConfig 的 C 語言核心程式庫
 * [The common EditorConfig template](https://gitlab.com/the-common/editorconfig-template)  
   A simple EditorConfig template to reuse.
 
